@@ -1,0 +1,7 @@
+#side_base hr, #recommended_users, #side_lists, #trends, #following, #rssfeed, .promotion {
+  display: none !important;
+}
+
+#primary_nav {
+  margin-top: 10px !important;
+}
