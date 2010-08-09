@@ -1,4 +1,4 @@
-#side_base hr, #recommended_users, #side_lists, #trends, #following, #rssfeed, .promotion {
+#side_base hr, #recommended_users, #side_lists, #trends, div#following, #rssfeed, .promotion {
   display: none !important;
 }
 
