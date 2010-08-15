@@ -1,0 +1,10 @@
+= Twitter Scrubber
+
+Twitter Scrubber is a Safari 5 extension for removing twitter.com annoyances.
+
+If you have any annoyances you'd like to remove, add them and send a pull request.
+
+Download the built extension from the Downloads area
+
+http://dl.dropbox.com/u/1489940/twitter_scrubber.jpg
+
